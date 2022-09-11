@@ -4,7 +4,7 @@ const { addCategories, addNotes } = require('./src/controllers/loadDB.js');
 
 
 
-conn.sync({ force: true }).then(() => {
+conn.sync({ force: false }).then(() => {
     server.listen(process.env.PORT || 3001, async () => {
         await addCategories();
         await addNotes();
