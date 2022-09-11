@@ -1,0 +1,23 @@
+.card{
+    @apply flex bg-orange-300 text-center m-3 rounded-3xl
+}
+
+.card-icon img{
+    @apply w-20 ml-5 my-auto
+}
+
+.card-title p{
+    @apply border-b-2 border-solid border-black w-60 mx-auto font-bold
+}
+
+.card-content{
+    @apply block w-full 
+}
+
+.card-desc{
+    @apply px-10 h-20 overflow-y-auto
+}
+
+.card-buttons{
+    @apply justify-self-end 
+}

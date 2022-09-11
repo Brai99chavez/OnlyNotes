@@ -1,0 +1,11 @@
+.navbar{
+    @apply flex  font-bold h-20 p-5 bg-orange-500 justify-around 
+}
+
+.nav-title{
+    @apply text-3xl text-black h-20 
+}
+
+.nav-btn{
+    @apply text-xl text-black h-10 my-auto mx-2 p-2 rounded-xl transition duration-700  align-middle hover:bg-black hover:text-white
+}
