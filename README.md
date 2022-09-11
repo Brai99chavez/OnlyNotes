@@ -8,7 +8,7 @@
 - Create Backend and Frontend separately
 - Make the Backend an API that will be consumed by the Frontend
 
-## Comments of mine
+## Comments
 
 - the "setUp.sh" file, clone the repository, install the dependencies from the package.json 
 and prepare .env (environment file) to the backend , entering the required information
