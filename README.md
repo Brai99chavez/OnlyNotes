@@ -27,7 +27,7 @@ or
 
 - run the file setUp.sh
 
-### Tools
+### Requirements
 
 - __Node__: v16.15.0 or higher => https://nodejs.org/es/download/
 - __Postgres__: 14.5 => https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
