@@ -11,7 +11,7 @@
 - the "setUp.sh" file, clone the repository, install the dependencies from the package.json 
 and prepare .env (environment file) to the backend , entering the required information
 - You Need install Postgres 14.5 and create a DB with pgAdmin4 (It's what I do), the rest is done by the ORM (sequelize) when starting the back
-- DEPLOY: https://only-notes.vercel.app
+- DEPLOY: <lo hago publico despues de que me revisen el challenge xd>
 
 ## How to setUp
 
